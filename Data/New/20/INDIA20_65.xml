@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20</folder>
+	<filename>INDIA20_65.jpg</filename>
+	<path>/home/achal/Code/Currency_note/Data/20/INDIA20_65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>11</ymin>
+			<xmax>250</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

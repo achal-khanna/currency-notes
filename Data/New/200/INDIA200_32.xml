@@ -1,0 +1,26 @@
+<annotation>
+	<folder>200</folder>
+	<filename>INDIA200_32.jpg</filename>
+	<path>D:\Code\Currency_note\Data\New\200\INDIA200_32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>200</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>83</ymin>
+			<xmax>239</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

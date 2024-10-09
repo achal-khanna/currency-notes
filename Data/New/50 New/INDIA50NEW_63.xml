@@ -1,0 +1,26 @@
+<annotation>
+	<folder>50 New</folder>
+	<filename>INDIA50NEW_63.jpg</filename>
+	<path>/home/achal/Code/Currency_note/Data/50 New/INDIA50NEW_63.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>50 new</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>71</ymin>
+			<xmax>240</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

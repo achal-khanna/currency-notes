@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20</folder>
+	<filename>INDIA20_4.jpg</filename>
+	<path>D:\Code\Currency_note\Data\New\20\INDIA20_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>76</ymin>
+			<xmax>240</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>
